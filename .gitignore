@@ -1,0 +1,13 @@
+# Environments
+backend/venv
+frontend/node_modules/
+
+# Env files
+.env
+venv/
+__pycache__/
+*.pyc
+*.db
+.env
+backend/uploads/
+"venv/`n__pycache__/`n*.pyc`n*.db`n.env`nbackend/uploads/" | Out-File -FilePath .gitignore -Encoding utf8

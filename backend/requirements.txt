@@ -1,0 +1,37 @@
+# FastAPI and server
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+python-multipart==0.0.12
+
+# Database
+sqlalchemy==2.0.36
+
+# Authentication & Security
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-dotenv==1.0.1
+
+# Configuration
+pydantic==2.9.2
+pydantic-settings==2.5.2
+
+# LangChain & LangGraph
+langchain-core==0.3.15
+langchain-groq==0.1.4
+langchain-tavily==0.0.2
+langgraph==0.2.48
+
+# Groq API
+groq==0.11.0
+
+# Vector Store
+chromadb==0.5.15
+
+# Image Processing
+Pillow==11.0.0
+
+# PDF Processing
+pypdf==5.1.0
+
+# Utilities
+python-dateutil==2.9.0.post0
