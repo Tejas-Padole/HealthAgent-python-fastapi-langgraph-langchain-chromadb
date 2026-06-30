@@ -202,7 +202,6 @@ medical-assistant-app/
 
 ## 📸 Screenshots
 
-> Add your screenshot files to the `images/` folder in the project root, then they'll render automatically below.
 
 ### Main Dashboard
 ![Main Dashboard](output/Main-Dashboard.jpg)
