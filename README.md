@@ -1,6 +1,34 @@
 # Medical Assistant App
 
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-AI%20Agent-purple)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-VectorDB-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 A full-stack medical assistant application with RAG (Retrieval-Augmented Generation) capabilities, appointment booking and web search integration.
+
+---
+
+## 📑 Table of Contents
+
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Setup Instructions](#setup-instructions)
+- [Quick Start Scripts](#quick-start-scripts)
+- [Default Users](#default-users)
+- [API Endpoints](#api-endpoints)
+- [Project Structure](#project-structure)
+- [Features Guide](#features-guide)
+- [Screenshots](#-screenshots)
+- [Troubleshooting](#troubleshooting)
+- [Environment Variables](#environment-variables)
+- [License](#license)
+- [Author](#-author)
+
+---
 
 ## Features
 
@@ -152,6 +180,7 @@ medical-assistant-app/
 │   │   ├── services/     # API services
 │   │   └── main.jsx      # Application entry point
 │   └── package.json
+├── images/                # Screenshots used in this README
 └── README.md
 ```
 
@@ -168,6 +197,32 @@ medical-assistant-app/
 1. **Upload documents** - Add medical PDFs to enhance the RAG system
 2. **Manage documents** - View and delete uploaded documents
 3. **Monitor system** - All admin features accessible from the dashboard
+
+---
+
+## 📸 Screenshots
+
+> Add your screenshot files to the `images/` folder in the project root, then they'll render automatically below.
+
+### Main Dashboard
+![Main Dashboard](output/Main-Dashboard.jpg)
+
+### Login Page
+![Login](output/Login-Dashboard.jpg)
+
+### Guest Chat / AI Assistant
+![Chat Interface 1](output/chat-interface.jpg)
+
+### Guest Chat / AI Assistant
+![Chat Interface 2](output/chat-interface-2.jpg)
+
+### Document Upload
+![Document Upload](output/document-upload.jpg)
+
+### ### Create account Dashboard
+![Create account Dashboard](output/Create-account-Dashboard.png)
+
+---
 
 ## Troubleshooting
 
@@ -209,3 +264,15 @@ MIT License
 
 For issues or questions, please open an issue on GitHub.
 
+---
+
+## 👤 Author
+
+**Tejas Padole**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Tejas--Padole-181717?logo=github)](https://github.com/Tejas-Padole)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-padole01)
+
+---
+
+⭐ If you found this project useful, consider giving it a star on GitHub!
