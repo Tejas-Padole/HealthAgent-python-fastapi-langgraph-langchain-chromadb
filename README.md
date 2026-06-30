@@ -217,10 +217,10 @@ medical-assistant-app/
 ![Chat Interface 2](output/chat-interface-2.jpg)
 
 ### Document Upload
-![Document Upload](output/document-upload.jpg)
+![Document Upload](output/Document-Upload.jpg)
 
 ### ### Create account Dashboard
-![Create account Dashboard](output/Create-account-Dashboard.png)
+![Create account Dashboard](output/Create-account-Dashboard.jpg)
 
 ---
 
