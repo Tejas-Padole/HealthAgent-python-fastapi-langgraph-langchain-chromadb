@@ -219,7 +219,7 @@ medical-assistant-app/
 ### Document Upload
 ![Document Upload](output/Document-Upload.jpg)
 
-### ### Create account Dashboard
+### Create account Dashboard
 ![Create account Dashboard](output/Create-account-Dashboard.jpg)
 
 ---
